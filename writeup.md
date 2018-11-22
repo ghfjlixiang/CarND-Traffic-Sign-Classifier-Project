@@ -25,8 +25,8 @@ The goals / steps of this project are the following:
 [image4]: ./test_images/VehiclesProhibited.jpg "Traffic Sign 1"
 [image5]: ./test_images/NoVehicles.jpg "Traffic Sign 2"
 [image6]: ./test_images/Speedlimit(120kph).jpg "Traffic Sign 3"
-[image7]: ./test_images/Roadwork.jgp "Traffic Sign 4"
-[image8]: ./test_images/Priorityroad.jgp "Traffic Sign 5"
+[image7]: ./test_images/Roadwork.jpg "Traffic Sign 4"
+[image8]: ./test_images/Priorityroad.jpg "Traffic Sign 5"
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
