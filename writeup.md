@@ -22,11 +22,11 @@ The goals / steps of this project are the following:
 [image1]: ./examples/visualization.jpg "Visualization"
 [image2]: ./examples/grayscale.jpg "Grayscaling"
 [image3]: ./examples/random_noise.jpg "Random Noise"
-[image4]: ./test_images/Vehicles over 3.5 metric tons prohibited.png "Traffic Sign 1"
-[image5]: ./test_images/No vehicles.png "Traffic Sign 2"
-[image6]: ./test_images/Speed limit (120kph).png "Traffic Sign 3"
-[image7]: ./test_images/Road work.png "Traffic Sign 4"
-[image8]: ./test_images/Priority road.png "Traffic Sign 5"
+[image4]: ./test_images/VehiclesProhibited.jpg "Traffic Sign 1"
+[image5]: ./test_images/NoVehicles.jpg "Traffic Sign 2"
+[image6]: ./test_images/Speedlimit(120kph).jpg "Traffic Sign 3"
+[image7]: ./test_images/Roadwork.jgp "Traffic Sign 4"
+[image8]: ./test_images/Priorityroad.jgp "Traffic Sign 5"
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
@@ -114,7 +114,7 @@ As you know, All my work are base on a well known architecture called LeNet, why
 
 #### 1. Choose five German traffic signs found on the web and provide them in the report. For each image, discuss what quality or qualities might be difficult to classify.
 
-Here are five German traffic signs that I found on the web[reference project](https://github.com/kenshiro-o/CarND-Traffic-Sign-Classifier-Project?):
+Here are five German traffic signs that I found on the [reference project](https://github.com/kenshiro-o/CarND-Traffic-Sign-Classifier-Project?):
 
 ![Vehicles over 3.5 metric tons prohibited][image4]
 ![No vehicles][image5]
