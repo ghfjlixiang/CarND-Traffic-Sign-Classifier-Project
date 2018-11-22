@@ -116,8 +116,11 @@ As you know, All my work are base on a well known architecture called LeNet, why
 
 Here are five German traffic signs that I found on the web:
 
-![Vehicles over 3.5 metric tons prohibited][image4] ![No vehicles][image5] ![Speed limit (120kph)][image6] 
-![Road work][image7] ![Priority road][image8]
+![Vehicles over 3.5 metric tons prohibited][image4]
+![No vehicles][image5]
+![Speed limit (120kph)][image6]
+![Road work][image7]
+![Priority road][image8]
 
 The first image might be difficult to classify because it's features make up parts of other images, so it's easy to misjudge.
 
